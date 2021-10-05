@@ -5,7 +5,7 @@
     "email": "am.pirzadeh@gmail.com",
     "name": "AmirMohammad Pirzadeh"
   },
-  "description": "",
+  "description": "An EXTREMELY simple express (nodejs) server which you can upload your files to  ",
   "license": "MIT",
   "scripts": {
     "start": "ts-node -r dotenv/config main.ts",
